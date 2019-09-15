@@ -2,6 +2,8 @@ set number " 显示行号
 set cursorline " 突出显示当前行
 set ruler " 打开状态栏标尺
 set tabstop=4 " 设定 tab 长度为 4
+set softtabstop=4
+set shiftwidth=4
 ""'colorscheme darkblue "设置主题
 ""set bg=dark "设置背景
 ""set guifont=Courier_new:h20:b:cDEFAULT  "设置字体大小
